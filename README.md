@@ -1,5 +1,4 @@
 # Movie Rating Prediction with Python
-<img src="banner.png" alt="Description of the image" width="700" height="300">
 
 ## Table of Contents
 - [Project Overview](#Project-Overview)
@@ -65,9 +64,4 @@ In conclusion, this project provides valuable insights and a predictive model fo
 - User Reviews Analysis: Analyze user reviews and sentiments for deeper audience insights.
 - Real-time Data: Implement real-time data updates to keep the model current with the latest trends
 
-## Author
-- Marwa Osman
-- marwaosman9975@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/marwa-osman-00190b222/)
-- [GitHub](https://github.com/marwa9975)
 
